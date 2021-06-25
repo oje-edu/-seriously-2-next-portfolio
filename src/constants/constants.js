@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Persönlicher Blog',
-    description: 'Persönliche BLOG Seite, als ich noch freiwillig frische Luft atmen wollte.',
+    description: 'Persönliche BLOG Seite, als ich noch freiwillig täglich 30km lang frische Luft schnappen wollte.',
     image: '/images/2.png',
     tags: ['Ghost', 'Nginx', 'Linux'],
     source: 'https://mindblast.space',
