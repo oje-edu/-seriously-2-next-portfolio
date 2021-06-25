@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiOutlineTwitter, AiFillYoutube } from 'react-icons/ai'
-import { GiEmberShot } from 'react-icons/Gi'
+import { GiEmberShot } from 'react-icons/gi'
 
 import { Container, Span, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles'
 
