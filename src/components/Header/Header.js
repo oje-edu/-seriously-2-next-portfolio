@@ -10,7 +10,8 @@ const Header = () => (
     <Div1>
       <Link href='/'>
         <a style={{ display: 'flex', alignItems: 'center', color: 'whitesmoke', marginBottom: '20px' }}>
-          <GiEmberShot size='3rem' /> <Span>Portfolio</Span>
+          {/* TODO: FLIP second ICON */}
+          <GiEmberShot size='3rem' /> <Span>Portfolio</Span> <GiEmberShot size='2rem' />
         </a>
       </Link>
     </Div1>
