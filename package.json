@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "next portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oje-edu/-seriously-2-next-portfolio.git"
+  },
+  "keywords": [
+    "next",
+    "portfolio"
+  ],
+  "author": "oje-edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oje-edu/-seriously-2-next-portfolio/issues"
+  },
+  "homepage": "https://github.com/oje-edu/-seriously-2-next-portfolio#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "styled-components": "^5.3.0",
+    "styled-normalize": "^8.0.7"
+  }
+}
