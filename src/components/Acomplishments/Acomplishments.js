@@ -3,12 +3,7 @@ import React from 'react'
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents'
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles'
 
-const data = [
-  { number: 2, text: 'Open Source Projete' },
-  { number: 0, text: 'Pull Requests', },
-  { number: 0, text: 'Github Followers', },
-  { number: 0, text: 'Github Stars', }
-]
+import { AcomplishmentsData as data } from '../../constants/constants'
 
 const Acomplishments = () => (
   <Section>

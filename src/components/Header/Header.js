@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiOutlineTwitter, AiFillYoutube } from 'react-icons/ai'
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai'
 import { GiEmberShot } from 'react-icons/gi'
 
 import { Container, Span, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles'
@@ -38,15 +38,6 @@ const Header = () => (
       </SocialIcons>
       <SocialIcons href='https://linkedin.com/in/thorsten-oje' target='_blank' rel='noopener noreferrer'>
         <AiFillLinkedin size='3rem' />
-      </SocialIcons>
-      <SocialIcons href='https://twitter.com/0berfoerster' target='_blank' rel='noopener noreferrer'>
-        <AiOutlineTwitter size='3rem' />
-      </SocialIcons>
-      <SocialIcons href='https://instagram.com/0berfoerster' target='_blank' rel='noopener noreferrer'>
-        <AiFillInstagram size='3rem' />
-      </SocialIcons>
-      <SocialIcons href='https://www.youtube.com/channel/UC-p7KMht2kokesM0O9Q5tyg' target='_blank' rel='noopener noreferrer'>
-        <AiFillYoutube size='3rem' />
       </SocialIcons>
     </Div3>
   </Container>

@@ -88,15 +88,15 @@ export const UtilityList = styled.ul`
 `
 
 export const ExternalLinks = styled.a`
-  color:#d4c0c0;
+  color: whitesmoke;
   font-size: 1.6rem;
   padding:1rem 1.5rem;
-  background: #6b3030;
+  background: #bb59e5;
   border-radius: 15px;
   transition: 0.5s;
 
   &:hover{
-    background: #801414;
+    background: #e559c9;
   }
 `
 
