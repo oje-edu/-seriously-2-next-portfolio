@@ -27,10 +27,10 @@ export const projects = [
     id: 2
   },
   {
-    title: 'NOCONCEPT.DESIGN',
+    title: 'noconcept',
     description: 'Mhh... ich nenne es mal der/die/das "unvollendende"',
     image: '/images/projekt4.png',
-    tags: ['React', 'Fullstack', 'Nginx', 'Covid-19', 'API'],
+    tags: ['React', 'Nginx', 'Covid-19', 'API'],
     source: '#',
     visit: 'https://noconcept.design/',
     id: 3
@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 1997, text: 'Compuserve Rechnung über 1350,00 DM (fürn Monat!) Neuland', },
   { year: 2000, text: 'Platzhalter', },
   { year: 2010, text: 'Platzhalter', },
-  { year: 2021, text: 'Platzhalter', },
+  { year: 2021, text: 'Platzhalter', }
 ]
