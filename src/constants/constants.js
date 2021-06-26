@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'FIZZYHOSTING',
     description: 'Wurde mit 3 Servern inkl. Backup betrieben (Nicht mehr aktiv)',
-    image: '/images/1.png',
-    tags: ['Lifeconfig', 'Linux', 'Hosing'],
+    image: '/images/liveconfig.svg',
+    tags: ['Lifeconfig', 'Linux', 'Hosting'],
     source: '#',
     visit: '#',
     id: 0
@@ -11,27 +11,27 @@ export const projects = [
   {
     title: 'Persönlicher Blog',
     description: 'Persönliche BLOG Seite, als ich noch freiwillig täglich 30km lang frische Luft schnappen wollte.',
-    image: '/images/2.png',
+    image: '/images/projekt2.png',
     tags: ['Ghost', 'Nginx', 'Linux'],
-    source: 'https://mindblast.space',
+    source: '#',
     visit: 'https://mindblast.space',
     id: 1
   },
   {
     title: 'Training',
     description: 'Naja, was man eben so macht, wenn man freiwillig keine frische Luft mehr atmen möchte.',
-    image: '/images/3.jpg',
+    image: '/images/projekt3.png',
     tags: ['Wordpress', 'Nginx', 'Linux'],
-    source: 'https://training.oje.ooo/',
+    source: '#',
     visit: 'https://training.oje.ooo/',
     id: 2
   },
   {
     title: 'NOCONCEPT.DESIGN',
     description: 'Mhh... ich nenne es mal der/die/das "unvollendende"',
-    image: '/images/4.jpg',
-    tags: ['React', 'Fullstack', 'Nginx', 'Covid', 'API'],
-    source: 'https://noconcept.design/',
+    image: '/images/projekt4.png',
+    tags: ['React', 'Fullstack', 'Nginx', 'Covid-19', 'API'],
+    source: '#',
     visit: 'https://noconcept.design/',
     id: 3
   }
