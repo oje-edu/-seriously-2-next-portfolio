@@ -55,7 +55,7 @@ export const Hr = styled.hr`
   height: 3px;
   margin: 20px auto;
   border: 0;
-  background: #d0bb57;
+  background: #3ee860;
 `
 
 export const Intro = styled.div`
