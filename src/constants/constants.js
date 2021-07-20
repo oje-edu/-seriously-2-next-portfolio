@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/projekt3.png',
     tags: ['Wordpress', 'Nginx', 'Linux'],
     source: '#',
-    visit: 'https://training.oje.ooo/',
+    visit: 'https://training.oje.is',
     id: 2
   },
   {
